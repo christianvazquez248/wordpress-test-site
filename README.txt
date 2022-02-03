@@ -1,0 +1,1 @@
+This repository exists to keep a record of my locally hosted WordPress testing site. I have experience managing WordPress for my retail store but have this to get practice with further management than I am allowed at my cuurent position and to test plugins and further page creation.
